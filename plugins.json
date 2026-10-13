@@ -716,6 +716,19 @@
 		"variant": "both",
 		"tags": ["Minecraft: Java Edition"]
 	},
+	"voxelshape_exporter": {
+		"title": "VoxelShape Exporter",
+		"author": "Snownee, JTK222, Ocraftyone",
+		"icon": "fa-cubes",
+		"description": "Export your Java block model's cubes as a Minecraft VoxelShape (1.14+ modded)",
+		"tags": ["Minecraft: Java Edition", "Exporter"],
+		"version": "1.1.0",
+		"min_version": "4.8.0",
+		"variant": "both",
+		"new_repository_format": true,
+		"has_changelog": true,
+		"creation_date": "2026-10-13"
+	},
 	"mimodel_format": {
 		"title": "Mine-imator Model Exporter",
 		"icon": "fas.fa-box-open",
